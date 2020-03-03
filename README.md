@@ -3,7 +3,7 @@
 
 <!-- badges: start -->
 [![R build status](https://github.com/mshhh/mysimplecompedium/workflows/R-CMD-check/badge.svg)](https://github.com/mshhh/mysimplecompedium/actions)
-<!-- badges: end -->
+<!-- badges: end -->    
 
 The goal of mysimplecompedium is to ...
 
